@@ -1,21 +1,50 @@
-### Olá eu sou Edivando Reis de Siqueira. Desenvolvedor Jr. 👋
+### Hello I'm Edivando Reis de Siqueira.
+### Let's talk more about me...  
 
-<!--
-**DidoReis/DidoReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const didoReis = {
+    pronouns: "He" | "Him",
+    Studying: ["React", "Phyton"],
+    code: ["HTML5", "Bootstrap", "CSS", "SASS", "Javascript", "PHP", "Phyton"],
+    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    technologies: {
+        backEnd: {
+            js: ["Node"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        databases: ["MariaDB", "MySql", "sqlite"],
+        misc: ["php"]
+    },
+      
+   funFact: "Programming is easy, the difficult thing is to program without errors. Living and learning",
+   favoriteQuote: "Talent is cheaper than salt. What separates the talented person from the successful is a lot of hard work."
+   'Stephen King'
+};
+```
+## 🌝 Completed Projects:
 
-Here are some ideas to get you started:
+* [Body Mass Calculator](https://github.com/DidoReis/Calculadora-IMC) >> Code in Javascript, HTML and CSS to calculate body mass!
+* [Calculator](https://github.com/DidoReis/Calculadora-HTML-JS) >> Calculator developed as an example of the JavaScript Complete Course at Udemy.com.
+* [Test site, glassmorphim by CRAFTER](https://github.com/DidoReis/Glassmorphism-example-Crafter-SRP-G-27ce) >> Glassmorphism example, Crafter SRP G-27ce
+* [Color of Ernie Balls test site](https://github.com/DidoReis/Landing-Page-Ernie-Ball-Colors)  >> Inpired by colors of Ernie Balls, HTML, CSS and JS
+* [Crunchyroll test site](https://github.com/DidoReis/Landing-Page-KimetsuNoYaiba) >> Make a page about crunchyroll and demon slayer using HTML. CSS and Reponsive.
 
-- 🔭 Atualmente trabalhando em meu Portfólio.
-- 🌱 Estou atualmente aprendendo Fullstack na Udemy ênfase em JS e react!
+## 🤓 Ongoing Projects:
 
--->
+Dashboard personal finances - update soon
+
+## 🤝Contribution activity 
+
 
 <div>
   <a href="https://github.com/DidoReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DidoReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidoReis&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DidoReis&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidoReis&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
+  
   
   <div style="display: inline_block"><br>
   <img align="center" alt="DidoReis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,15 +57,14 @@ Here are some ideas to get you started:
 
 </div>
   
-   ##
+  
  
-<div> 
-  <a href="https://www.instagram.com/djdidoreis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
- 
-  <a href = "mailto:djdidoreis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edivando-reis-de-siqueira-1236aa190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+### Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/DidoReis/)](https://github.com/DidoReis) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edivando-reis-de-siqueira-1236aa190/)](https://www.linkedin.com/in/edivando-reis-de-siqueira-1236aa190)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djdidoreis@gmail.com)](mailto:djdidoreis@gmail.com)
+
+
+  
+
   
