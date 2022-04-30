@@ -5,7 +5,7 @@
 const didoReis = {
     pronouns: "He" | "Him",
     Studying: ["React", "Phyton"],
-    code: ["HTML5", "Bootstrap", "CSS", "SASS", "Javascript", "PHP", "Phyton"],
+    code: ["HTML5", "Bootstrap", "CSS", "SASS", "Javascript", "PHP", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
         backEnd: {
