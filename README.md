@@ -27,7 +27,7 @@ const didoReis = {
 
 * [Body Mass Calculator](https://github.com/DidoReis/Calculadora-IMC) >> Code in Javascript, HTML and CSS to calculate body mass!
 * [Calculator](https://github.com/DidoReis/Calculadora-HTML-JS) >> Calculator developed as an example of the JavaScript Complete Course at Udemy.com.
-* [Test site, glassmorphim by CRAFTER](https://github.com/DidoReis/Glassmorphism-example-Crafter-SRP-G-27ce) >> Glassmorphism example, Crafter SRP G-27ce
+* [Not Official Site, Glassmorphim CRAFTER](https://didoreis.github.io/Glassmorphism-Crafter-Not-Official/) >> Glassmorphism Crafter Not Official Site
 * [Color of Ernie Balls test site](https://github.com/DidoReis/Landing-Page-Ernie-Ball-Colors)  >> Inpired by colors of Ernie Balls, HTML, CSS and JS
 * [Crunchyroll test site](https://github.com/DidoReis/Landing-Page-KimetsuNoYaiba) >> Make a page about crunchyroll and demon slayer using HTML. CSS and Reponsive.
 
