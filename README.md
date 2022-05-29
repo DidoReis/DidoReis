@@ -29,7 +29,7 @@ const didoReis = {
 * [Calculator](https://github.com/DidoReis/Calculadora-HTML-JS) >> Calculator developed as an example of the JavaScript Complete Course at Udemy.com.
 * [Not Official Site, Glassmorphim CRAFTER](https://didoreis.github.io/Glassmorphism-Crafter-Not-Official/) >> Glassmorphism Crafter Not Official Site
 * [Not Official Colors of Ernie Balls test site](https://github.com/DidoReis/Landing-Page-Ernie-Ball-Colors](https://didoreis.github.io/Landing-Page-Ernie-Ball-Colors/)  >> Inpired by colors of Ernie Balls, HTML, CSS and JS
-* [ Not OfficialCrunchyroll test site](https://github.com/DidoReis/Landing-Page-KimetsuNoYaiba](https://didoreis.github.io/Landing-Page-KimetsuNoYaiba/) >> Make a page about crunchyroll and demon slayer using HTML. CSS and Reponsive.
+* [Not Official Crunchyroll test site](https://github.com/DidoReis/Landing-Page-KimetsuNoYaiba](https://didoreis.github.io/Landing-Page-KimetsuNoYaiba/) >> Make a page about crunchyroll and demon slayer using HTML. CSS and Reponsive.
 
 ## 🤓 Ongoing Projects:
 
