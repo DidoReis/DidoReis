@@ -25,7 +25,7 @@ const didoReis = {
 ```
 ## 🌝 Completed Projects/GitPages and Netlify:
 * [Curriculo - React](https://62e97e4871b2d24fdbd82b06--tourmaline-pavlova-344b48.netlify.app/) >> My curriculum in React.Js!
-* [Body Mass Calculator](https://github.com/DidoReis/Calculadora-IMC) >> Code in Javascript, HTML and CSS to calculate body mass!
+* [Body Mass Calculator](https://didoreis.github.io/Calculadora-IMC/) >> Code in Javascript, HTML and CSS to calculate body mass!
 * [Horoscopo](https://didoreis.github.io/Horoscopo-in-HTML-CSS-E-JS) >> Code in Javascript, HTML and CSS to, A simple application to discover the sign and its characteristics
 * [Calculator](https://github.com/DidoReis/Calculadora-HTML-JS) >> Calculator developed as an example of the JavaScript Complete Course at Udemy.com.
 * [Not Official Site, Glassmorphim CRAFTER](https://didoreis.github.io/Glassmorphism-Crafter-Not-Official) >> Glassmorphism Crafter Not Official Site
