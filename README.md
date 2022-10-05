@@ -12,7 +12,7 @@ const didoReis = {
             js: ["Node"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["React-Native"]
         },
         databases: ["MariaDB", "MySql", "sqlite"],
         misc: ["php"]
