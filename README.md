@@ -4,17 +4,17 @@
 ```javascript
 let didoReis = {
     pronouns: "He" | "Him",
-    Certifications: ["Full-Stack" "React", "Javascript" "HTML" "CSS" "NodeJs"],
+    Certifications: ["Full-Stack", "React", "Javascript", "HTML", "CSS", "NodeJs"],
     code: ["HTML5", "Bootstrap", "CSS", "SASS", "Javascript", "PHP", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
         backEnd: {
-            js: ["NodeJs"],
+            back: ["NodeJs", python],
         },
         mobileApp: {
             native: ["React-Native"]
         },
-        databases: ["MariaDB", "MySql", "sqlite"],
+        databases: ["MariaDB", "MySql", "sqlite", MongoDB],
         misc: ["php"]
     },
       
