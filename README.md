@@ -2,14 +2,14 @@
 ### Let's talk more about me...  
 
 ```javascript
-const didoReis = {
+let didoReis = {
     pronouns: "He" | "Him",
-    Certifications: ["Full-Stack" "React", "Python"],
+    Certifications: ["Full-Stack" "React", "Javascript" "HTML" "CSS" "NodeJs"],
     code: ["HTML5", "Bootstrap", "CSS", "SASS", "Javascript", "PHP", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
         backEnd: {
-            js: ["Node"],
+            js: ["NodeJs"],
         },
         mobileApp: {
             native: ["React-Native"]
