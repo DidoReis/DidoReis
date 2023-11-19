@@ -33,7 +33,7 @@ const didoReis = {
         new Backend(["PHP", "Node.Js", "Python", "Java"]),
         new MobileApp(["React-Native", "Flutter", "Kotlin"]),
         new Databases(["MariaDB", "MySql", "sqlite", "MongoDB", "PostgreSQL"]),
-        new misc(["php", "Java", "Python", "Node.Js"])
+        new Misc(["php", "Java", "Python", "Node.Js"])
     ),
     funFact: "Programming is easy, the difficult thing is to program without errors. Living and learning",
     favoriteQuote: "Talent is cheaper than salt. What separates the talented person from
