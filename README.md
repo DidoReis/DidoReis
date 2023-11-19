@@ -14,6 +14,18 @@ class MobileApp {
     }
 }
 
+class Databases {
+    constructor(databases) {
+        this.databases = databases;
+    }
+}
+
+class Misc {
+    constructor(misc) {
+        this.misc = misc;
+    }
+}
+
 class Technologies {
     constructor(backEnd, mobileApp, databases, misc) {
         this.backEnd = backEnd;
@@ -25,9 +37,9 @@ class Technologies {
 
 const didoReis = {
     name: "Edivando Reis de Siqueira",
-    age: 43, 
+    age: 43,
     certifications: ["HTML", "CSS", "Javascript", "PHP", "Full Stack", "React.Js", "Node.Js", "Java", "Python"],
-    codingIn: ["HTML5", "Bootstrap", "SASS", "Tailwind", "Javascript", "React.Js", "Node.Js" "PHP", "Python", "Java"],
+    codingIn: ["HTML5", "Bootstrap", "SASS", "Tailwind", "Javascript", "React.Js", "Node.Js", "PHP", "Python", "Java"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Music", "NFL", "Soccer", "Path of Exile", "Horror Movies", "Lord Of The Rings"],
     technologies: new Technologies(
         new Backend(["PHP", "Node.Js", "Python", "Java"]),
@@ -36,12 +48,13 @@ const didoReis = {
         new Misc(["php", "Java", "Python", "Node.Js"])
     ),
     funFact: "Programming is easy, the difficult thing is to program without errors. Living and learning",
-    favoriteQuote: "Talent is cheaper than salt. What separates the talented person from the successful is a lot of hard work. 'Stephen King'",
+    favoriteQuote: "Talent is cheaper than salt. What separates the talented person from " +
+        "the successful is a lot of hard work. 'Stephen King'",
     hobbies: ["Reading", "Playing Music", "Coding", "Play Games", "Watch Movies"]
 };
 
-
 console.log(didoReis);
+
 ```
 ## 🌝 Completed Projects/GitPages and Netlify:
 * [Curriculo - React](https://62e97e4871b2d24fdbd82b06--tourmaline-pavlova-344b48.netlify.app/) >> My curriculum in React.Js!
