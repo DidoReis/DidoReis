@@ -27,7 +27,7 @@ const didoReis = {
     name: "Edivando Reis de Siqueira",
     age: 43, 
     certifications: ["HTML", "CSS", "Javascript", "PHP", "Full Stack", "React.Js", "Node.Js", "Java", "Python"],
-    codingIn: ["HTML5", "Bootstrap", "SASS", "Tailwind", "Javascript", "PHP", "Python"],
+    codingIn: ["HTML5", "Bootstrap", "SASS", "Tailwind", "Javascript", "React.Js", "Node.Js" "PHP", "Python", "Java"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Music", "NFL", "Soccer", "Path of Exile", "Horror Movies", "Lord Of The Rings"],
     technologies: new Technologies(
         new Backend(["PHP", "Node.Js", "Python", "Java"]),
