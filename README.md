@@ -24,24 +24,23 @@ class Technologies {
 }
 
 const didoReis = {
-    name: "Dido Reis",
-    age: 30, // Substitua com a idade correta
-    pronouns: "He",
-    certifications: ["Full-Stack", "React", "Javascript", "HTML", "CSS", "NodeJs"],
-    code: ["HTML5", "Bootstrap", "CSS", "SASS", "Javascript", "PHP", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    name: "Edivando Reis de Siqueira",
+    age: 43, 
+    certifications: ["HTML", "CSS", "Javascript", "PHP", "Full Stack", "React.Js", "Node.Js", "Java", "Python"],
+    codingIn: ["HTML5", "Bootstrap", "SASS", "Tailwind", "Javascript", "PHP", "Python"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Music", "NFL", "Soccer", "Path of Exile", "Horror Movies", "Lord Of The Rings"],
     technologies: new Technologies(
-        new Backend(["NodeJs", "python"]),
-        new MobileApp(["React-Native"]),
-        ["MariaDB", "MySql", "sqlite", "MongoDB"],
-        ["php"]
+        new Backend(["PHP", "Node.Js", "Python", "Java"]),
+        new MobileApp(["React-Native", "Flutter", "Kotlin"]),
+        new Databases(["MariaDB", "MySql", "sqlite", "MongoDB", "PostgreSQL"]),
+        misc(["php", "Java", "Python", "Node.Js"])
     ),
     funFact: "Programming is easy, the difficult thing is to program without errors. Living and learning",
     favoriteQuote: "Talent is cheaper than salt. What separates the talented person from the successful is a lot of hard work. 'Stephen King'",
-    hobbies: ["Reading", "Playing Music", "Coding"] // Adicione hobbies conforme necessário
+    hobbies: ["Reading", "Playing Music", "Coding", "Play Games", "Watch Movies"]
 };
 
-// Exemplo de uso
+
 console.log(didoReis);
 ```
 ## 🌝 Completed Projects/GitPages and Netlify:
