@@ -2,26 +2,47 @@
 ### Let's talk more about me...  
 
 ```javascript
-let didoReis = {
-    pronouns: "He" | "Him",
-    Certifications: ["Full-Stack", "React", "Javascript", "HTML", "CSS", "NodeJs"],
+class Backend {
+    constructor(back) {
+        this.back = back;
+    }
+}
+
+class MobileApp {
+    constructor(nativeApps) {
+        this.nativeApps = nativeApps;
+    }
+}
+
+class Technologies {
+    constructor(backEnd, mobileApp, databases, misc) {
+        this.backEnd = backEnd;
+        this.mobileApp = mobileApp;
+        this.databases = databases;
+        this.misc = misc;
+    }
+}
+
+const didoReis = {
+    name: "Dido Reis",
+    age: 30, // Substitua com a idade correta
+    pronouns: "He",
+    certifications: ["Full-Stack", "React", "Javascript", "HTML", "CSS", "NodeJs"],
     code: ["HTML5", "Bootstrap", "CSS", "SASS", "Javascript", "PHP", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
-    technologies: {
-        backEnd: {
-            back: ["NodeJs", python],
-        },
-        mobileApp: {
-            native: ["React-Native"]
-        },
-        databases: ["MariaDB", "MySql", "sqlite", MongoDB],
-        misc: ["php"]
-    },
-      
-   funFact: "Programming is easy, the difficult thing is to program without errors. Living and learning",
-   favoriteQuote: "Talent is cheaper than salt. What separates the talented person from the successful is a lot of hard work."
-   'Stephen King'
+    technologies: new Technologies(
+        new Backend(["NodeJs", "python"]),
+        new MobileApp(["React-Native"]),
+        ["MariaDB", "MySql", "sqlite", "MongoDB"],
+        ["php"]
+    ),
+    funFact: "Programming is easy, the difficult thing is to program without errors. Living and learning",
+    favoriteQuote: "Talent is cheaper than salt. What separates the talented person from the successful is a lot of hard work. 'Stephen King'",
+    hobbies: ["Reading", "Playing Music", "Coding"] // Adicione hobbies conforme necessário
 };
+
+// Exemplo de uso
+console.log(didoReis);
 ```
 ## 🌝 Completed Projects/GitPages and Netlify:
 * [Curriculo - React](https://62e97e4871b2d24fdbd82b06--tourmaline-pavlova-344b48.netlify.app/) >> My curriculum in React.Js!
