@@ -36,7 +36,8 @@ const didoReis = {
         misc(["php", "Java", "Python", "Node.Js"])
     ),
     funFact: "Programming is easy, the difficult thing is to program without errors. Living and learning",
-    favoriteQuote: "Talent is cheaper than salt. What separates the talented person from the successful is a lot of hard work. 'Stephen King'",
+    favoriteQuote: "Talent is cheaper than salt. What separates the talented person from
+    the successful is a lot of hard work. 'Stephen King'",
     hobbies: ["Reading", "Playing Music", "Coding", "Play Games", "Watch Movies"]
 };
 
